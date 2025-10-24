@@ -17,8 +17,8 @@ const IMAGE_STARTSIZE = 100;
 
 // Load the image.
 function preload() {
-  imgGlobe = loadImage("/assets/globe-public.png");
-  imgWaterDrop = loadImage("/assets/water-drop.png");
+  imgGlobe = loadImage("assets/globe-public.png");
+  imgWaterDrop = loadImage("assets/water-drop.png");
 }
 
 function setup() {
